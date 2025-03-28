@@ -1,0 +1,12 @@
+subprocess
+gtts
+aiogram
+telebot
+googletrans
+base64
+transliterate
+deepface
+json
+os
+pydub
+speech_recognition
